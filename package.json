@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Tomoko's group work in opiframe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomoko Uehara",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
